@@ -23,17 +23,17 @@ public class HelloWorld {
 
 class A {
     public static void a() {
-        System.out.println("This is from CLass A");
+        System.out.println("This is from CLass A  ");
     }
 }
 
 class B {
      public static void b() {
-        System.out.println("This is from CLass B");
+        System.out.println("This is from CLass B  ");
     }
 }
 class C {
     public static void c() {
-        System.out.println("This is from CLass C");
+        System.out.println("This is from CLass C  ");
     }
 }
